@@ -1,4 +1,4 @@
-<h2>Translate Text To Braille Representation & Vice Versa Easily In This Project.</h2>
+<h2>Braille Translator</h2>
 
 <p>
 
