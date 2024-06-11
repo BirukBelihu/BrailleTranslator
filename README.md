@@ -13,7 +13,7 @@ Features
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
-To Get Started Easily With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE.
+To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE.
 
 </p>
 
