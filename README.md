@@ -22,7 +22,7 @@ Features
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
-To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<a href="https://developer.android.com/studio"><b>Android Studio</b></a>, <b>AIDE</b>, <b>CodeAssist</b>).
+To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<a href="https://developer.android.com/studio">Android Studio</b></a>, <b>AIDE</b>, <b>CodeAssist</b>).
 
 </p>
 
