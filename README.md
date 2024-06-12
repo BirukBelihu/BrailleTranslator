@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="css/styles.css" rel="stylesheet">
+<style>
+    a {
+     text-decoration: "none";
+    }
+</style>
 </head>
 <body>
     <h2>Braille Translator</h2>
-
 <p>
 
 <b>Braille Translator</b> is an impressive open-source Android project that converts text into Braille & Braille To Text, enhancing accessibility for visually impaired users. With its intuitive interface and seamless functionality, it empowers users to easily translate written content into Braille. Demonstrating strong technical execution and a commitment to inclusivity, Braille Translator is a valuable resource for personal and educational use, setting a high standard in accessible technology.
@@ -19,7 +22,7 @@ Features
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
-To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<a href="https://developer.android.com/studio" style="text-decoration: none"><b>Android Studio</b></a>, <b>AIDE</b>, <b>CodeAssist</b>).
+To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<a href="https://developer.android.com/studio"><b>Android Studio</b></a>, <b>AIDE</b>, <b>CodeAssist</b>).
 
 </p>
 
