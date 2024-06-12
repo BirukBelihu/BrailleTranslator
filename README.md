@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-    a {
-     text-decoration: none;
-    }
-</style>
 </head>
 <body>
     <h2>Braille Translator</h2>
@@ -22,7 +17,7 @@ Features
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
-To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<a href="https://developer.android.com/studio">Android Studio</a>, <b>AIDE</b>, <b>CodeAssist</b>).
+To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b>Android Studio</b>, <b>AIDE</b>, <b>CodeAssist</b>).
 
 </p>
 
