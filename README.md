@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+</head>
     <style>
     a {
      text-decoration: none;
     }
 </style>
-</head>
 <body>
     <h2>Braille Translator</h2>
 <p>
