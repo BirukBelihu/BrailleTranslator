@@ -1,4 +1,10 @@
-<h2>Braille Translator</h2>
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <h2>Braille Translator</h2>
 
 <p>
 
@@ -35,3 +41,5 @@ If You Want More Android App Development Tutorials & Projects Check My Social Me
 
 <b>LinkTree</b>
 https://linktr.ee/androiddeveloperspage
+ </body>
+ </html>		
