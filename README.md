@@ -18,6 +18,7 @@ Features
 
 <ul>
   <li>Instant Text To Braille & Braille To Text Translator</li>
+  <li>Unlimited Characters For Both Text & Braille</li>
   <li>Text Reader</li>
   <li>Powerful Speech Recognizer Using Google Speech Service</li>
  <li>Copy, Paste & Clear Text</li>
