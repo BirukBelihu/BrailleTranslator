@@ -13,7 +13,7 @@ Features
 <ul>
   <li>Instant Text To Braille & Braille To Text Translator</li>
   <li>Text Reader</li>
-  <li>Powerful Speech To Text Converter Using Google Speech Service</li>
+  <li>Powerful Speech Recognizer Using Google Speech Service</li>
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
