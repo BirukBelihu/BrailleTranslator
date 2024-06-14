@@ -1,3 +1,5 @@
+//Author Biruk
+
 package com.androiddevs.brailletranslator;
 
 import java.util.Map;
