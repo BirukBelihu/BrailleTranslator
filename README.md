@@ -24,6 +24,8 @@ Features
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
+ <h2>Installation Instruction</h2>
+
 To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b>Android Studio</b>, <b>AIDE</b>, <b>CodeAssist</b>).
 
 </p>
