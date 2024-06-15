@@ -3,7 +3,6 @@
 <head>
 </head>
 <body>
-
     <h2>Braille Translator</h2>
 <p>
 
