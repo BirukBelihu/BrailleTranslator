@@ -46,8 +46,10 @@ If You Want More Android App Development Tutorials & Projects Check My Social Me
 
 <b>WhatsApp</b> :- https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K
 
-<b>LinkTree</b>
+<b>LinkTree</b> :-
 https://linktr.ee/androiddeveloperspage
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="birukbelihumekonnen" data-color="#FFDD00" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>
 
  </body>
  </html>		
