@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Braille Translator</string>
+	<string name="app_description">Braille Translator For Android</string>
+	<string name="et_hint">Enter Text</string>
+	<string name="translate_b2t">"Translate Braille To Text</string>
+	<string name="my_credit">\@SE_BIBEL_MEK</string>
+</resources>
