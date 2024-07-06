@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-    <h2>Braille Translator</h2>
+    <h2>Description</h2>
 <p>
 
 <b>Braille Translator</b> is an impressive open-source Android project that converts text into Braille & Braille To Text, enhancing accessibility for visually impaired users. With its intuitive interface and seamless functionality, it empowers users to easily translate written content into Braille. Demonstrating strong technical execution and a commitment to <b>inclusivity</b>, Braille Translator is a valuable resource for personal and educational use, setting a high standard in accessible technology.
