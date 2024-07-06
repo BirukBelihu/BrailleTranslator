@@ -34,7 +34,8 @@ To Get Started With Braille Translator On Your Local Machine Simply Clone The Pr
 git clone https://github.com/BirukBelihu/BrailleTranslator.git
 ```
 
-<h2>
+<h2>Social Media Pages</h2>
+
 If You Want More Android App Development Tutorials & Projects Check My Social Media Pages.
 
 <b>Telegram</b> :- https://t.me/androiddevstutorials
