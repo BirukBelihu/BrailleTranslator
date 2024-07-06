@@ -3,6 +3,10 @@
 <head>
 </head>
 <body>
+<h2>Braille Translator</h2>
+
+<p>Translate Text To Braille Representation & Vice Versa</p>
+
     <h2>Description</h2>
 <p>
 
