@@ -42,7 +42,7 @@ git clone https://github.com/BirukBelihu/BrailleTranslator.git
 
 If You Want More Android App Development Tutorials & Projects Check My Social Media Pages.
 
-<b>Telegram</b> :- https://t.me/androiddevstemp
+<b>Telegram</b> :- https://t.me/androiddevstutorial
 
 <b>YouTube</b> :- https://youtube.com/@AndroidDevsTutorials
 
