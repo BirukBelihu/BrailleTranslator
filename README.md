@@ -48,8 +48,6 @@ If You Want More Android App Development Tutorials & Projects Check My Social Me
 
 <b>Blogger</b> :- https://androiddevelopersb.blogspot.com
 
-<b>Discord</b> :- https://discord.com/invite/yJ2uUyeu
-
 <b>WhatsApp</b> :- https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K
 
 <b>LinkTree</b> :-
