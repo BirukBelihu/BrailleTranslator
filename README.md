@@ -52,8 +52,5 @@ If You Want More Android App Development Tutorials & Projects Check My Social Me
 
 <b>LinkTree</b> :-
 https://linktr.ee/androiddeveloperspage
-
-<h2>Support</h2>
-<a href="https://www.buymeacoffee.com/birukbelihu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
  </body>
  </html>		
