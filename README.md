@@ -30,7 +30,7 @@
 
 <h2>Download</h2>
 
-You Can Braille Translator From The <a href="">Releases</a> Page.
+You Can Download Braille Translator From The <a href="https://github.com/BirukBelihu/BrailleTranslator/releases/tag/1.0.0">Releases</a> Page.
 
  <h2>Build Instruction</h2>
 
