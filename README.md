@@ -28,6 +28,10 @@
  <li>Copy, Paste & Clear Text</li>
 </ul>
 
+<h2>Download</h2>
+
+You Can Braille Translator From The <a href="">Releases</a> Page.
+
  <h2>Build Instruction</h2>
 
 To Get Started With Braille Translator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b>Android Studio</b>, <b>AIDE</b>, <b>CodeAssist</b>).
