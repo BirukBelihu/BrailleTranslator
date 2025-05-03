@@ -62,5 +62,10 @@ If You Want More Android App Development Tutorials & Projects Check My Social Me
 
 <b>LinkTree</b> :-
 https://linktr.ee/androiddeveloperspage
+
+## License
+
+This library is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for more details.
+
  </body>
  </html>		
